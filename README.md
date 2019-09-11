@@ -3,7 +3,7 @@
 Algorithms to encryptand decrypt c++
 
 <p align="center">
-<a href="https://imgflip.com/gif/3a8dmg"><img src="https://i.imgflip.com/3a8dmg.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/3a8elk"><img src="https://i.imgflip.com/3a8elk.gif" title="made at imgflip.com"/></a>
 </p>
 
 Options:
