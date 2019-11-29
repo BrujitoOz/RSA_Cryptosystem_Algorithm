@@ -1,6 +1,6 @@
 # RSA_Cryptosystem_Algorithm
 
-Small program to encryptand/decrypt with c++
+Small program to encrypt and/decrypt with c++
 
 <p align="center">
 <a href="https://imgflip.com/gif/3a8elk"><img src="https://i.imgflip.com/3a8elk.gif" title="made at imgflip.com"/></a>
